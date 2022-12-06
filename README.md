@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MEROO1010 UI/UX design and frontend developer
--  I’m interested in flutter, react and nex js
+- 👋 :smiley: Hi, I’m @MEROO1010 UI/UX design and software developer
+- :computer: I’m interested in flutter, react and nex js
 -  I’m currently learning backend development and machine learning 
 
 
