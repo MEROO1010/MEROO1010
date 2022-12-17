@@ -1,6 +1,6 @@
-- 👋 :smiley: Hi, I’m @MEROO1010 UI/UX design and software developer
+- 👋 :smiley: Hi, I’m Marwah AAlsaggaf UI/UX designer and software developer
 - :computer: I’m interested in flutter, react and nex js
--  I’m currently learning backend development and machine learning 
+-  I’m currently learning backend development and machine learning as well
 
 
 <!---
