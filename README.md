@@ -18,7 +18,7 @@
 
 
 
-[![MEROO1010's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MEROO1010)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MEROO1010's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MEROO1010&bg_color=343233&color=b2a12e&line=b2a12e&point=f0a524&area=true&hide_border=true)](https://github.com/MEROO1010/github-readme-activity-graph)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEROO1010&theme=zenburn)
