@@ -2,16 +2,14 @@
 
 
 - :computer: I’m interested in flutter, react and nex js
--  I’m currently learning backend development and machine learning as well
+-  I’m currently learning backend development and machine learning as well<br/><br/>
 
 
 
 
 
 
-
- [![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/merooalsaggaf/)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwah-alsaggaf-ba44011b2/)
-
+![](https://komarev.com/ghpvc/?username=MEROO1010&label=PROFILE+VIEWS)  [![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/merooalsaggaf/)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwah-alsaggaf-ba44011b2/) <br/><br/> <br/><br/><be/> 
 
 
 
