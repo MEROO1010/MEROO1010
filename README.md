@@ -3,7 +3,7 @@
 - 👋 :smiley: Hi, I’m Marwah AAlsaggaf UI/UX designer and software developer
 
 
-- :computer: I’m interested in flutter, react and nex js
+- :computer: I’m interested in flutter, react and next js
 -  I’m currently learning backend development and machine learning as well <br/> <br/>
    ![](https://komarev.com/ghpvc/?username=MEROO1010&label=PROFILE+VIEWS) 
   
