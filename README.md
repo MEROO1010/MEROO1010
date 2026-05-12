@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=MEROO1010&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
----
+-----
 
 ### 👩‍💻 About Me
 
@@ -15,7 +15,7 @@
 - 🎓 Also exploring **Data Science** on the side
 - 📍 Based in **Jeddah, Saudi Arabia**
 
----
+-----
 
 ### 🛠️ Tech Stack
 
@@ -37,28 +37,28 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
----
+-----
 
 ### 🚀 Currently Learning
 
-| 📚 Topic | 🎯 Goal |
-|---|---|
-| Backend Development | Build full-stack applications |
-| Machine Learning | Apply ML to real-world problems |
-| Data Science | Explore data-driven insights |
+|📚 Topic            |🎯 Goal                         |
+|-------------------|-------------------------------|
+|Backend Development|Build full-stack applications  |
+|Machine Learning   |Apply ML to real-world problems|
+|Data Science       |Explore data-driven insights   |
 
----
+-----
 
 ### ✨ Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [☕ Coffee Land](https://github.com/MEROO1010/coffee-land) | Flutter app for ordering coffee | Dart · Flutter |
-| [⌚ Watch Spot UI](https://github.com/MEROO1010/Watch-spot-UI-flutter-app) | Beautiful watch store UI | Flutter |
-| [🍕 Pizza House](https://github.com/MEROO1010/pizza-house) | Full restaurant Flutter app | Flutter |
-| [✍️ Handwriting Recognition](https://github.com/MEROO1010/Handwriting-Recognition) | ML model in Jupyter | Python · ML |
+|Project                                                                          |Description                                              |Tech              |
+|---------------------------------------------------------------------------------|---------------------------------------------------------|------------------|
+|[☕ Coffee Land](https://github.com/MEROO1010/coffee-land)                        |Full mobile app for ordering coffee — UI + implementation|Dart · Flutter    |
+|[✍️ Handwriting Recognition](https://github.com/MEROO1010/Handwriting-Recognition)|ML model for recognizing handwritten characters          |Python · Jupyter  |
+|[🛋️ Furniture Landing Page](https://github.com/MEROO1010/furniture-landingpage)   |Responsive e-commerce landing page                       |React · JavaScript|
+|[⌚ Watch Spot UI](https://github.com/MEROO1010/Watch-spot-UI-flutter-app)        |Sleek watch store UI concept                             |Flutter           |
 
----
+-----
 
 ### 📊 GitHub Stats
 
@@ -71,7 +71,7 @@
   <img src="https://streak-stats.demolab.com?user=MEROO1010&theme=tokyonight" />
 </p>
 
----
+-----
 
 ### 🌐 Connect With Me
 
